@@ -1,4 +1,4 @@
-# PHP LinkedIn Share Button
+## PHP_Set_LinkIn_Share_Button
 
 A simple PHP example demonstrating how to add a LinkedIn share button to a PHP website using both a basic share URL and the official LinkedIn share script.
 
