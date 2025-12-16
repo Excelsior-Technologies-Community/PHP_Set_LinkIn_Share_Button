@@ -107,7 +107,16 @@ This project is useful for:
 
 * PHP beginners
 * Social media integration examples
-* Interview demonstrations
+* Interview demonstrationsM
 * Practical web development tasks
 *
-* ## screenshotailable under the
+* ## screenshot
+
+* <img width="1146" height="583" alt="image" src="https://github.com/user-attachments/assets/5aaaad26-7ae4-4c6f-9838-cf73b95fa28a" />
+
+* <img width="1838" height="944" alt="image" src="https://github.com/user-attachments/assets/f17d9231-a9d1-4038-bb63-865fe2170771" />
+
+* <img width="1252" height="879" alt="image" src="https://github.com/user-attachments/assets/e0c6b8ee-fa35-46af-8074-1094d446fa04" />
+
+
+
